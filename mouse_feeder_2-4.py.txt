@@ -1,0 +1,8 @@
+import time 
+
+def feed():
+    print('Feeding')
+    
+while True:
+    feed()
+    time.sleep(3)
